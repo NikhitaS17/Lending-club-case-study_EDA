@@ -1,1 +1,1 @@
-# Lending-club-case-study_ML
+# Lending-club-case-study_EDA
